@@ -55,6 +55,7 @@
 
 #if HAVE_AFINET6
 
+
 #ifndef _LINUX_IN6_H
 /*
  *    This is in linux/include/net/ipv6.h.
